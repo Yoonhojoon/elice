@@ -2,7 +2,6 @@ package chapter1_4;
 
 import java.io.FileNotFoundException;
 import java.util.Scanner;
-import java.io.*;
 
 //단리와 복리
 public class CompoundAndSimpleInterest {

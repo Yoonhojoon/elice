@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 구구단 n단 출력하기
 public class TimesTable {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         int n = scanner.nextInt();

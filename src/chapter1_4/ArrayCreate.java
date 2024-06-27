@@ -2,7 +2,7 @@ package chapter1_4;
 
 // 배열 생성과 출력
 public class ArrayCreate {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         // 지시사항 1번을 참고하여 코드를 작성하세요.
         int[] iArray = new int[3];
 

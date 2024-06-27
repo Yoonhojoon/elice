@@ -5,7 +5,7 @@ import java.util.Scanner;
 //약수 구하기
 
 public class FindingDivisors {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
         int n = scan.nextInt();

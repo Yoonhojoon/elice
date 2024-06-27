@@ -3,7 +3,7 @@ package chapter1_4;
 
 //로켓 발사하기
 public class RocketLunch {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         int count = 10;
 
         // 지시사항 1번을 참고하여 코드를 작성하세요.
