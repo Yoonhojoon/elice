@@ -1,7 +1,7 @@
 package chapter1_4;
 
 import java.util.Scanner;
-
+//깃 반영을 위한 주석
 // 구구단 n단 출력하기
 public class TimesTable {
     public static void main(String[] args) {
