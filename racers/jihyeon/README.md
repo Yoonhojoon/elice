@@ -1,1 +1,0 @@
-# jihyeon's readme
