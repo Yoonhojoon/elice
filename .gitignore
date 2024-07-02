@@ -37,3 +37,12 @@ vcx.xml
 
 .idea
 cloud4.iml
+*.iml
+misc.xml
+modules.xml
+vcs.xml
+workspace.xml
+
+*.iml
+
+src/test
