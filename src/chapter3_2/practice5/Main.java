@@ -17,7 +17,6 @@ public class Main {
         int nMinutes = sc.nextInt();
 
         // 2. 두번째 줄에 자연수 세 개가 공백을 기준으로 입력. (시,분,초)
-
         int hour = sc.nextInt();
         int minute = sc.nextInt();
         int second = sc.nextInt();
@@ -27,3 +26,5 @@ public class Main {
 
     }
 }
+
+
