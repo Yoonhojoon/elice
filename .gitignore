@@ -44,5 +44,4 @@ vcs.xml
 workspace.xml
 
 *.iml
-
 src/test
