@@ -16,7 +16,13 @@ public class Main {
     public static void main(String[] args) {
 
         // 지시 사항을 참고하여 코드를 작성해 보세요.
-        checkBalance(Math.random());
+        try {
+            checkBalance(Math.random());
+        } catch (NetworkException e) {
+            throw new RuntimeException(e);
+        } catch (AccountInfoException e) {
+            throw new RuntimeException(e);
+        }
 
     }
 
