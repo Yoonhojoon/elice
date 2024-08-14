@@ -46,3 +46,4 @@ workspace.xml
 *.iml
 
 src/test
+templates
